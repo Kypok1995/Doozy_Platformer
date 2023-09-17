@@ -71,11 +71,17 @@ In my game I created different collision mechanic:
 1) Character with collectibles;
 2) Crate Collision: A crate can respawn if it collides with PainCausingVolume (placed in certain areas of the map), stompers, or lava material. This mechanic was implemented in order to give player endless amunt of tries for the sections of level, where crate can fall down and block further passage of the level.
 3) Collision with spawning pad: spawning pad is activating, character spawn location is updated to a new one.
+4) Collision with pressure plate: it can be a trigger for activating another game elements.
 
 
 The box is destroyed when colliding with stompers (destroyed only after 1.5 seconds of such a collision):
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWp3M3ZjMHZndmFvOGU0OWJkYTh0cWFibWhqZ2ZteXJ2NXMxdnNkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K89EtACtq2uoJPEzi3/giphy.gif)
+
+
+Crate collides with pressure plate and opens a door:
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VuMGNleDJsYnBwYzM4a3hxdDNmcm9sNnBrb3IyZDhzYXFqd3NheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4VI6QvmYG6zZVbYJC0/giphy.gif)
 
 
 ## Blueprints
