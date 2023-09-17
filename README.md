@@ -33,7 +33,7 @@ Overview of the created level
 ## Creating character
 I decided not to use the built-in character provided by Tech Academy and created my own with custom animations that I took from Mixamo.com.  I created my own character blueprints for character spawn and damage (however, I copied the character movement blueprint from the third person character blueprint).
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWg2M3hhMzIyazZmcGI5b2d3cnIxYmZjcDFlMHczcTVxbWg3NHk3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oEKYnkH3d7OJHCuR6C/giphy-downsized-large.gif)
+![](https://media.giphy.com/media/oEKYnkH3d7OJHCuR6C/giphy-downsized.gif)
 
 ## Collectables
 In my game I created 3 different types of collectibles:
